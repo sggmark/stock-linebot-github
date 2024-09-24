@@ -1,0 +1,9 @@
+line-bot-sdk==3.7.0
+flask==3.0.0
+OpenAI
+requests
+beautifulsoup4
+yfinance
+numpy
+azure-ai-language-conversations==1.1.0
+configparser
